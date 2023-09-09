@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  margin-top: 10%;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+span {
+  color: #353535;
+}
+
+div a {
+  color: purple;
+  font-size: 20px;
+}
